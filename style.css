@@ -1,0 +1,45 @@
+
+
+
+body{
+background-color: antiquewhite;
+
+}
+
+#banner{
+    width: 100%;
+}
+
+h1{
+    text-align: left;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background-color:antiquewhite ;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+    
+}
+
+.items{
+    font-style: oblique;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 50%;
+
+}
